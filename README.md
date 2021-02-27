@@ -8,4 +8,4 @@ A rotatividade ou perda de clientes (Churn) ocorre quando um cliente para de faz
 É um problema considerável, especialmente em setores dependentes de assinatura, como telecomunicações, aplicativos de recorrência e Streaming de Video (Netflix, Spotfy, PlayStore).
 
 Qual o Problema de Negócio?¶
-Nesse Ciência dos Dados na Prática, nosso objetivo é ajudar a VIVO a determinar os principais fatores de rotatividade de clientes e prever as chances de um cliente sair, para que a VIVO tome ações apropriadas para evitar essa Perda de Clientes.
+Nosso objetivo é ajudar a VIVO a determinar os principais fatores de rotatividade de clientes e prever as chances de um cliente sair, para que a VIVO tome ações apropriadas para evitar essa Perda de Clientes.
